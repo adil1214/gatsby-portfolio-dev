@@ -1,6 +1,6 @@
-# Portfolio for developers
+# Portfolio for developer
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57c04515-1d1b-46e8-b531-213fabca9cc4/deploy-status)](https://app.netlify.com/sites/gatsby-portfolio-dev/deploys)
+Gatsby Portfolio Template made by [Smakosh](https://github.com/smakosh/gatsby-portfolio-dev) and edited for personal use.
 
 ## Features
 
