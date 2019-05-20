@@ -2,6 +2,8 @@
 
 Gatsby Portfolio Template made by [Smakosh](https://github.com/smakosh/gatsby-portfolio-dev) and edited for personal use.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4668d1dd-6b78-4afe-b91f-f11d065f2d10/deploy-status)](https://app.netlify.com/sites/xenodochial-benz-8947c1/deploys)
+
 ## Features
 
 - Eslint/Prettier configured
